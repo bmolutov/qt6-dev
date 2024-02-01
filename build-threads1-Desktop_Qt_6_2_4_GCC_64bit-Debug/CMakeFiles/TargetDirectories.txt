@@ -1,0 +1,9 @@
+/home/beka/origin/qt6-dev/build-threads1-Desktop_Qt_6_2_4_GCC_64bit-Debug/CMakeFiles/threads1.dir
+/home/beka/origin/qt6-dev/build-threads1-Desktop_Qt_6_2_4_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
+/home/beka/origin/qt6-dev/build-threads1-Desktop_Qt_6_2_4_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/home/beka/origin/qt6-dev/build-threads1-Desktop_Qt_6_2_4_GCC_64bit-Debug/CMakeFiles/list_install_components.dir
+/home/beka/origin/qt6-dev/build-threads1-Desktop_Qt_6_2_4_GCC_64bit-Debug/CMakeFiles/install.dir
+/home/beka/origin/qt6-dev/build-threads1-Desktop_Qt_6_2_4_GCC_64bit-Debug/CMakeFiles/install/local.dir
+/home/beka/origin/qt6-dev/build-threads1-Desktop_Qt_6_2_4_GCC_64bit-Debug/CMakeFiles/install/strip.dir
+/home/beka/origin/qt6-dev/build-threads1-Desktop_Qt_6_2_4_GCC_64bit-Debug/CMakeFiles/threads1_autogen_timestamp_deps.dir
+/home/beka/origin/qt6-dev/build-threads1-Desktop_Qt_6_2_4_GCC_64bit-Debug/CMakeFiles/threads1_autogen.dir
