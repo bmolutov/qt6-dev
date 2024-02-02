@@ -1,9 +1,0 @@
-# ninja log v5
-0	140	1706771351132834125	threads1_autogen/timestamp	bd72db7cbe05e274
-0	140	1706771351132834125	threads1_autogen/mocs_compilation.cpp	bd72db7cbe05e274
-0	140	1706771351132834125	/home/beka/origin/qt6-dev/build-threads1-Desktop_Qt_6_2_4_GCC_64bit-Debug/threads1_autogen/timestamp	bd72db7cbe05e274
-0	140	1706771351132834125	/home/beka/origin/qt6-dev/build-threads1-Desktop_Qt_6_2_4_GCC_64bit-Debug/threads1_autogen/mocs_compilation.cpp	bd72db7cbe05e274
-141	1336	1706771352326165904	CMakeFiles/threads1.dir/threads1_autogen/mocs_compilation.cpp.o	7ef6fdd7cc197bda
-141	1345	1706771352336165891	CMakeFiles/threads1.dir/test.cpp.o	87762366a63a01c0
-141	1360	1706771352352832536	CMakeFiles/threads1.dir/main.cpp.o	36361803e8c7b5b9
-1360	1465	1706771352459499064	threads1	ca3110b541b5e4b
